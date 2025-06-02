@@ -9,10 +9,11 @@ A personal portfolio website showcasing my projects, skills, and background as a
 - Tailwind CSS
 - JavaScript (Vanilla)
 - Git & GitHub
-- [Optional: Vercel for Deployment]
+- Vercel
 
 ## Project Structure
 
+```
 /portfolio-website
 │
 ├── index.html # 
@@ -23,12 +24,7 @@ A personal portfolio website showcasing my projects, skills, and background as a
 │ └── script.js # 
 ├── resume.pdf # 
 └── README.md # 
-
-yaml
-Copy
-Edit
-
----
+```
 
 ## Features
 
