@@ -40,21 +40,19 @@ A personal portfolio website showcasing my projects, skills, and background as a
 |------------|----------------------------------------|-------------|
 | May 25     | Planned structure and layout           |    Done     |
 | May 25     | Set up Git repo and Tailwind config    |    Done     |
-| May 26     | Built HTML structure and sections      |    To do    |
-| May 26     | Styled with Tailwind                   |    To do    |
-| May 27     | Added skills and sample projects       |    To Do    |
-| May 28     | Add resume link and contact info       |    To Do    |
-| May 28     | Deploy to Vercel and finalize          |    To Do    |
+| May 26     | Built HTML structure and sections      |    Done     |
+| May 26     | Styled with Tailwind                   |    Done     |
+| May 27     | Added skills and sample projects       |    Done     |
+| May 28     | Add resume link and contact info       |    Done     |
+| May 28     | Deploy to Vercel and finalize          |    Done     |
 
 ---
 
 ## Projects Included
 
 | Project Name        | Description                                               | Tech Used            |
-|---------------------|-----------------------------------------------------------|-----------------------|
-| To-Do App (JS)      | A basic task manager with add/remove functionality        | HTML, CSS, JS         |
-| SQL Report Viewer   | Simulated SQL report queries for learning                 | Oracle SQL            |
-| Tic-Tac-Toe Console | A basic CLI game built in C++ as a class assignment       | C++                   |
+|---------------------|-----------------------------------------------------------|----------------------|
+| Tic-Tac-Toe Console | A basic CLI game built in C++ as a class assignment       | C++                  |
 
 
 ##  Screenshots
