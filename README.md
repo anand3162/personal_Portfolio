@@ -69,4 +69,4 @@ _Add screenshots of your site or sections here later!_
 
 ## 🌐 Live Demo
 
-🔗 [View it Live](https://yourname.vercel.app) (Replace with your link once deployed)
+🔗 [View it Live]([https://yourname.vercel.app](https://personal-portfolio-one-alpha-46.vercel.app/)) (Replace with your link once deployed)
